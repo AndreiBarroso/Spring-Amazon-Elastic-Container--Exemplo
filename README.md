@@ -22,5 +22,6 @@ Execute sua imagem Docker no AWS ECS (Elastic Container Service)
 		
 - Fluxo de Aplicação 
 
+<img width="576" alt="fluxo" src="https://user-images.githubusercontent.com/47922406/105187804-f5b84d00-5b11-11eb-8247-746c8b9e5fbb.png">
 
 
